@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/frondend-angular2/browser",
+    "public": "dist/Frondend_angular2/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
