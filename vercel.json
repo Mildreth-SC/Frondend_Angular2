@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run vercel-build",
-  "outputDirectory": "dist/frondend-angular2/browser",
+  "outputDirectory": "dist/Frondend_angular2/browser",
   "rewrites": [
     {
       "source": "/(.*)",
