@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiUrl: 'http://127.0.0.1:8000/api/empleados'
+  apiUrl: 'https://backendpython2-production.up.railway.app/api/empleados'
 };
